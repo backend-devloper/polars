@@ -4,7 +4,7 @@
 .ENV
 .env
 .ipynb_checkpoints/
-.python-version
+.python-version 
 .yarn/
 coverage.lcov
 coverage.xml
