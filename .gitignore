@@ -7,7 +7,7 @@
 .python-version 
 .yarn/
 coverage.lcov
-coverage.xml
+coverage.xml 
 data/
 polars/vendor
 
